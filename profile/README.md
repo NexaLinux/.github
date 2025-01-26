@@ -15,6 +15,7 @@
   <li>Low system requirements</li>
   <li>Smooth animations on (almost) every computer</li>
 <ol>
+<br>
 <div align="center">
   <h1>Can I contribute?</h1>
   <p>Of course! You can also modify and redistribute our software, but you must follow the GNU GPL 3.0 License.</p>
