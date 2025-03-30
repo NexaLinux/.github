@@ -1,10 +1,8 @@
 <div align="center">
-  <h1>Nexa Linux - Welcome!</h1>
-  <img src="https://raw.githubusercontent.com/NexaLinux/.github/refs/heads/main/wallpapers/cold-logo.png">
-  <i>One of the wallpapers for Nexa Linux.</i>
-  <h2>Nexa Linux is a distro based on <img src="https://assets.ubuntu.com/v1/be7e4cc6-COF-favicon-32x32.png" height="28"> <a href="ubuntu.com">Ubuntu</a>, but with <code>sudo apt remove ubuntu-bloat gnome && sudo apt install nexa-tweaks kde-plasma-desktop</code>.</h2>
+  <h1>Introducing Nexa Linux</h1>
+  Nexa Linux is a lightning fast, user friendly and community driven distribution, based on Ubuntu, made for beginners, switching from Windows or experts. <br>
+  <br>
+  <a href="https://discord.gg/aDBWR2DkaS">Discord</a> • <a href="https://nexalinux.xyz">Website</a> • <a href="https://x.com/nexalinux">Twitter (X)</a>
 </div>
-<div align="center">
-  <h1>Can I contribute?</h1>
+  <h2>Can I contribute?</h2>
   <p>Of course! You can also modify and redistribute our software, but you must follow the GNU GPL 3.0 License.</p>
-</div>
